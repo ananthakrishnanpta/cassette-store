@@ -1,4 +1,4 @@
 ﻿# cassette-store
 
 
-[https://ananthakrishnanpta.github.io/cassette-store/](click here)
+![click here](https://ananthakrishnanpta.github.io/cassette-store/)
